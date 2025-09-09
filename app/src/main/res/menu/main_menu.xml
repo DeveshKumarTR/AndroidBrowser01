@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_new_tab"
+        android:title="@string/new_tab"
+        android:icon="@drawable/ic_add"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_bookmarks"
+        android:title="@string/bookmarks"
+        android:icon="@drawable/ic_bookmark_border"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_history"
+        android:title="@string/history"
+        android:icon="@drawable/ic_history"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_downloads"
+        android:title="@string/downloads"
+        android:icon="@drawable/ic_download"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_share"
+        android:title="@string/share"
+        android:icon="@drawable/ic_share"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_find_in_page"
+        android:title="@string/find_in_page"
+        android:icon="@drawable/ic_search"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_settings"
+        android:title="@string/settings"
+        android:icon="@drawable/ic_settings"
+        app:showAsAction="never" />
+
+</menu>
