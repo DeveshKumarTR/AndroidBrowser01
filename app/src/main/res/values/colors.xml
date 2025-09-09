@@ -1,33 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="primary_blue">#2196F3</color>
-    <color name="primary_blue_dark">#1976D2</color>
-    <color name="accent_blue">#03DAC5</color>
-    <color name="teal_700">#FF018786</color>
-    
-    <color name="white">#FFFFFF</color>
-    <color name="black">#000000</color>
-    
-    <color name="text_primary">#212121</color>
-    <color name="text_secondary">#757575</color>
-    
-    <color name="background_light">#FAFAFA</color>
-    <color name="background_dark">#121212</color>
-    
-    <color name="card_background">#FFFFFF</color>
-    <color name="divider">#E0E0E0</color>
-    
-    <color name="error">#F44336</color>
-    <color name="success">#4CAF50</color>
-    <color name="warning">#FF9800</color>
-    
-    <!-- Browser specific colors -->
+    <!-- Primary colors -->
     <color name="primary_blue">#1976D2</color>
     <color name="primary_blue_dark">#1565C0</color>
     <color name="accent_blue">#2196F3</color>
-    <color name="background_gray">#F5F5F5</color>
-    <color name="card_background">#FFFFFF</color>
+    <color name="teal_700">#FF018786</color>
+    
+    <!-- Basic colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    
+    <!-- Text colors -->
     <color name="text_primary">#212121</color>
     <color name="text_secondary">#757575</color>
+    
+    <!-- Background colors -->
+    <color name="background_light">#FAFAFA</color>
+    <color name="background_dark">#121212</color>
+    <color name="background_gray">#F5F5F5</color>
+    
+    <!-- UI colors -->
+    <color name="card_background">#FFFFFF</color>
     <color name="divider">#BDBDBD</color>
+    
+    <!-- Status colors -->
+    <color name="error">#F44336</color>
+    <color name="success">#4CAF50</color>
+    <color name="warning">#FF9800</color>
 </resources>
